@@ -67,6 +67,7 @@
         android:contentDescription="@string/action_add_book"
         android:translationZ="@dimen/fab_press_translation_z"
         android:clickable="true"
+        android:focusable="true"
         />
 
 

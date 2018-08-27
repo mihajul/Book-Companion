@@ -9,7 +9,9 @@
         android:id="@+id/content"
         android:layout_width="@dimen/column_width"
         android:layout_height="@dimen/column_height"
-        android:textAppearance="?attr/textAppearanceListItem" />
+        android:textAppearance="?attr/textAppearanceListItem"
+        android:contentDescription="@string/cover_photo"
+        />
 
     <TextView
         android:id="@+id/title"

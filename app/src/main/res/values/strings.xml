@@ -24,4 +24,6 @@
     <string name="save_note">Save note</string>
     <string name="image_note">Image Note</string>
     <string name="appwidget_empty_text">The current book will appear here after you select it in the app</string>
+    <string name="book_title">Title</string>
+    <string name="book_author">Author</string>
 </resources>
