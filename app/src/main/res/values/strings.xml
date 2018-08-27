@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Book Companion</string>
+    <string name="title_book_detail">Book Detail</string>
+    <string name="empty_message">There are no books in your collection. Press the floating action button to add a book.</string>
+    <string name="action_settings">Settings</string>
+    <string name="sort">Sort</string>
+    <string name="created_date">Most recent first</string>
+    <string name="title">Title (a -> z)</string>
+    <string name="refresh">Refresh</string>
+    <string name="sort_by">Sort By:</string>
+    <string name="pref_sortby_key">sort_by</string>
+    <string name="action_add_book">Add book</string>
+    <string name="title_activity_book_add">Add a new book</string>
+    <string name="search_hint">Type here to search for a book online</string>
+    <string name="note_hint">Type a note</string>
+    <string name="chapter_hint">Type the chapter name</string>
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="book_details">Book details</string>
+    <string name="cover_photo">Cover Photo</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="save_book">Save book</string>
+    <string name="banner_ad">banner ad</string>
+    <string name="save_note">Save note</string>
+    <string name="image_note">Image Note</string>
+    <string name="appwidget_empty_text">The current book will appear here after you select it in the app</string>
+</resources>

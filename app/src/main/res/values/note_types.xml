@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="note_types_array">
+        <item>Chapter</item>
+        <item>Note</item>
+    </string-array>
+</resources>
